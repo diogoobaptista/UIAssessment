@@ -1,0 +1,55 @@
+.SalesDashBoard {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+}
+
+
+.SalesDetails {
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.SalesIcon {
+    margin-left: 15px;
+    margin-top: 15px;
+    color: rgb(19, 174, 226);
+}
+
+.UploadsInfo {
+    margin-top: 50px;
+    padding: 15px;
+}
+
+.ColorPercentage {
+    height: 80px;
+    padding: 50px;
+    color: green;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.TextPercentage {
+    height: 80px;
+    padding: 50px;
+    color: gray;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.hr {
+    margin-left: 150px;
+    margin-right: 0px;
+}
+
+.Tooltip {
+    background-color: lightgray;
+    padding: 8px;
+    margin: 10px;
+    height: 10px;
+    border-radius: 20px;
+}
